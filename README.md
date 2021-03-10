@@ -1,16 +1,33 @@
-### Hi there 👋
+## Ola Bem Vindo :)
 
-<!--
-**HezromThiago/HezromThiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniel Reis. Atualmente moro em Itapevi - São Paulo - Brasil. Estou focando nos estudos de Javascript, tanto no Front-end quanto no Back-End.
 
-Here are some ideas to get you started:
+## Informações uteis ou não...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Nome**: Hezrom Thiago;
+* **Idade**: 20;
+* **Morando em**: Itapevi - SP;
+* **Faculdade**: ainda não, mas pretendo...
+
+<p align="left">
+  🦄 Habilidades: <strong>HTML, CSS, SASS, JavaScript, Node</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, PhotoShop, Figma, Vercel, Wordpress, Elementor.</strong>
+</p>
+
+<p align="left">
+  💌 Vamos criar um projeto juntos? so mandar mensagem ⤵️
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/hezrom-thiago/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hezrom-thiago/" />
+  </a>
+
+  <a href="https://www.facebook.com/hezrom.barbosa" alt="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/hezrom.barbosa"/>
+  </a>
+</p>
+
