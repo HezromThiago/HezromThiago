@@ -10,15 +10,15 @@ Meu nome é Daniel Reis. Atualmente moro em Itapevi - São Paulo - Brasil. Estou
 * **Faculdade**: ainda não, mas pretendo...
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, SASS, JavaScript, Node</strong>
+  👨🏽‍💻 Habilidades: <strong>HTML, CSS, SASS, JavaScript, Node</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, PhotoShop, Figma, Vercel, Wordpress, Elementor.</strong>
+  🛠 Ferramentas: <strong>VSCode, PhotoShop, Figma, Vercel, Wordpress, Elementor.</strong>
 </p>
 
 <p align="left">
-  💌 Vamos criar um projeto juntos? so mandar mensagem ⤵️
+  📲 Vamos criar um projeto juntos? so mandar mensagem ⤵️
 </p>
 
 <p>
