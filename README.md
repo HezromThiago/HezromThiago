@@ -2,7 +2,7 @@
 
 Meu nome é Daniel Reis. Atualmente moro em Itapevi - São Paulo - Brasil. Estou focando nos estudos de Javascript, tanto no Front-end quanto no Back-End.
 
-## Informações uteis ou não...
+## preparados para o checklist? então Go!
 
 * **Nome**: Hezrom Thiago;
 * **Idade**: 20;
