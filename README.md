@@ -11,7 +11,7 @@ Meu nome é Daniel Reis. Atualmente moro em Itapevi - São Paulo - Brasil. Estou
 * Meu Portifolio: https://hezromthiago.github.io/portifolio/
 
 <p align="left">
-  👨🏽‍💻 Habilidades: <strong>HTML, CSS, SASS, JavaScript, Node</strong>
+  👨🏽‍💻 Habilidades: <strong>HTML, CSS, SASS, ReactJs, SEO, Nextjs, </strong>
 </p>
 
 <p align="left">
