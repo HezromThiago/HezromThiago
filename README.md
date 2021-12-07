@@ -1,6 +1,6 @@
 ## Ola Bem Vindo :)
 
-Meu nome é Daniel Reis. Atualmente moro em Itapevi - São Paulo - Brasil. Estou focando nos estudos de Javascript, tanto no Front-end quanto no Back-End.
+Meu nome é Hezrom. Atualmente moro em Brusque - Santa Catarina - Brasil. Estou focando nos estudos de Javascript, quero ser um Full-Stack.
 
 ## Preparados para o checklist? então Go!
 
@@ -11,7 +11,7 @@ Meu nome é Daniel Reis. Atualmente moro em Itapevi - São Paulo - Brasil. Estou
 * Meu Portifolio: https://hezromthiago.github.io/portifolio/
 
 <p align="left">
-  👨🏽‍💻 Habilidades: <strong>HTML, CSS, SASS, SEO, ReactJs, Nextjs, </strong>
+  👨🏽‍💻 Habilidades: <strong>HTML, CSS, SASS, SEO, ReactJs, Nextjs, SQL, Git, Ajax, Mysql, API/Protocolo HTTP, Visual Studio, UML, Logica de Programação, GraphQL, XML</strong>
 </p>
 
 <p align="left">
