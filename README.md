@@ -15,7 +15,7 @@ Meu nome é Hezrom. Atualmente moro em Brusque - Santa Catarina - Brasil. Estou 
 </p>
 
 <p align="left">
-  🛠 Ferramentas: <strong>VSCode, PhotoShop, Figma, Vercel, Wordpress, Elementor.</strong>
+  🛠 Ferramentas: <strong>VSCode, Insomnia Rest, Postman,PhotoShop, Figma, Vercel, Wordpress, Elementor.</strong>
 </p>
 
 <p align="left">
